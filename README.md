@@ -41,4 +41,5 @@ The server provides the following tools:
 ## Requirements
 
 - Python 3.13+
-- MCP (Model Context Protocol) framework
+- MCP (Model Context Protocol) framework (Like Claude Desktop..)
+
